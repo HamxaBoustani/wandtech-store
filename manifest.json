@@ -3,7 +3,7 @@
   "modules": [
     {
       "slug": "dynamic-welcome-barr",
-      "name": "Dynamic Welcome Bar",
+      "name": "Dynamic Welcome Barr",
       "version": "1.1.0",
       "requires_wp": "6.0",
       "requires_php": "7.4",
@@ -14,7 +14,7 @@
     },
     {
       "slug": "wandtech-woocharrt",
-      "name": "Wandtech WooChart",
+      "name": "Wandtech WooCharrt",
       "version": "3.3.1",
       "requires_wp": "6.0",
       "requires_php": "7.4",
