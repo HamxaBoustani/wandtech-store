@@ -1,0 +1,30 @@
+{
+  "api_version": "1.0",
+  "modules": [
+    {
+      "slug": "dynamic-welcome-bar",
+      "name": "Dynamic Welcome Bar",
+      "version": "1.1.0",
+      "requires_wp": "6.0",
+      "requires_php": "7.4",
+      "author": "WandTech",
+      "short_description": "Displays a customizable welcome bar at the bottom of your site.",
+      "thumbnail": "https://raw.githubusercontent.com/YourOrg/wandtech-module-marketplace/main/thumbnails/dynamic-welcome-bar.png",
+      "download_url": "https://github.com/YourOrg/dynamic-welcome-bar/releases/download/v1.1.0/dynamic-welcome-bar.zip"
+    },
+    {
+      "slug": "wandtech-woochart",
+      "name": "Wandtech WooChart",
+      "version": "3.3.1",
+      "requires_wp": "6.0",
+      "requires_php": "7.4",
+      "requires_plugins": {
+        "woocommerce/woocommerce.php": "WooCommerce"
+      },
+      "author": "WandTech",
+      "short_description": "Dashboard charts for WooCommerce sales and order statuses.",
+      "thumbnail": "https://raw.githubusercontent.com/YourOrg/wandtech-module-marketplace/main/thumbnails/woochart.png",
+      "download_url": "https://github.com/YourOrg/wandtech-woochart/releases/download/v3.3.1/wandtech-woochart.zip"
+    }
+  ]
+}
