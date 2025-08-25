@@ -1,57 +1,14 @@
 {
-  "api_version": "1.1",
-  "products": [
-    {
-      "type": "module",
-      "slug": "dynamic-welcome-bar",
-      "name": "Dynamic Welcome Bar",
-      "version": "1.1.0",
-      "requires_wp": "6.0",
-      "requires_php": "7.4",
-      "author": "WandTech",
-      "short_description": "Displays a customizable welcome bar at the bottom of your site. Perfect for announcements and promotions.",
-      "thumbnail_url": "https://raw.githubusercontent.com/HamxaBoustani/wandtech-module-marketplace/main/thumbnails/dynamic-welcome-bar.png",
-      "download_url": "https://github.com/HamxaBoustani/dynamic-welcome-bar-module/archive/refs/tags/v1.1.0.zip"
-    },
-    {
-      "type": "plugin",
-      "slug": "wandtech-seo-optimizer",
-      "name": "Wandtech SEO Optimizer",
-      "version": "2.0.1",
-      "requires_wp": "6.2",
-      "requires_php": "8.0",
-      "author": "WandTech",
-      "short_description": "A powerful standalone plugin to skyrocket your search engine rankings with advanced tools.",
-      "plugin_file": "wandtech-seo-optimizer/wandtech-seo-optimizer.php",
-      "thumbnail_url": "https://raw.githubusercontent.com/HamxaBoustani/wandtech-module-marketplace/main/thumbnails/seo-optimizer.png",
-      "download_url": "https://github.com/HamxaBoustani/wandtech-seo-optimizer-plugin/archive/refs/tags/v2.0.1.zip"
-    },
-    {
-      "type": "theme",
-      "slug": "wandtech-pro-theme",
-      "name": "Wandtech Pro Theme",
-      "version": "1.5.0",
-      "requires_wp": "6.4",
-      "requires_php": "8.0",
-      "author": "WandTech",
-      "short_description": "A blazingly fast, professional, and highly customizable theme for modern websites.",
-      "thumbnail_url": "https://raw.githubusercontent.com/HamxaBoustani/wandtech-module-marketplace/main/thumbnails/pro-theme.png",
-      "download_url": "https://github.com/HamxaBoustani/wandtech-pro-theme/archive/refs/tags/v1.5.0.zip"
-    },
-    {
-      "type": "module",
-      "slug": "wandtech-woochart",
-      "name": "Wandtech WooChart",
-      "version": "3.3.1",
-      "requires_wp": "6.0",
-      "requires_php": "7.4",
-      "requires_plugins": {
-        "woocommerce/woocommerce.php": "WooCommerce"
-      },
-      "author": "WandTech",
-      "short_description": "Adds beautiful sales and order status charts to your WordPress dashboard.",
-      "thumbnail_url": "https://raw.githubusercontent.com/HamxaBoustani/wandtech-module-marketplace/main/thumbnails/woochart.png",
-      "download_url": "https://github.com/HamxaBoustani/wandtech-woochart-module/archive/refs/tags/v3.3.1.zip"
+  "api_version": "1.0",
+  "modules": [
+{
+      "slug": "sample-module",
+      "name": "Sample Module",
+      "version": "1.3.0",
+      "author": "Hamxa",
+      "short_description": "A perfect boilerplate and example of how to build a high-quality, translatable module for WandTech Console.",
+      "thumbnail_url": "",
+      "download_url": "https://github.com/HamxaBoustani/sample-module/releases/download/v-1.3.0/sample-module.zip"
     }
   ]
 }
