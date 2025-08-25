@@ -1,24 +1,6 @@
 {
   "api_version": "1.0",
   "modules": [
-    {
-      "slug": "super-seo-booster",
-      "name": "Super SEO Booster",
-      "version": "1.0.0",
-      "author": "WandTech",
-      "short_description": "A brand new module for testing the marketplace.",
-      "thumbnail_url": "",
-      "download_url": "https://github.com/HamxaBoustani/wandtech-module-woochart/archive/refs/tags/v3.3.1.zip"
-    },
-    {
-      "slug": "dynamic-welcome-bar",
-      "name": "Dynamic Welcome Bar",
-      "version": "1.1.0",
-      "author": "WandTech",
-      "short_description": "Displays a customizable welcome bar at the bottom of your site.",
-      "thumbnail_url": "",
-      "download_url": "https://github.com/HamxaBoustani/wandtech-module-dynamic-welcome-bar/archive/refs/tags/v1.1.0.zip"
-    },
 {
       "slug": "sample-module",
       "name": "Sample Module",
