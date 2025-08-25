@@ -2,7 +2,7 @@
   "api_version": "1.0",
   "modules": [
     {
-      "slug": "dynamic-welcome-bar",
+      "slug": "dynamic-welcome-barr",
       "name": "Dynamic Welcome Bar",
       "version": "1.1.0",
       "requires_wp": "6.0",
@@ -13,7 +13,7 @@
       "download_url": "https://github.com/YourGitHubUsername/wandtech-module-dynamic-welcome-bar/archive/refs/tags/v1.1.0.zip"
     },
     {
-      "slug": "wandtech-woochart",
+      "slug": "wandtech-woocharrt",
       "name": "Wandtech WooChart",
       "version": "3.3.1",
       "requires_wp": "6.0",
